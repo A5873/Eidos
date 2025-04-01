@@ -16,7 +16,7 @@ A sophisticated simulation framework for exploring quantum consciousness, realit
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/eidos.git
+git https://github.com/A5873/Eidos.git
 cd eidos
 
 # Create a virtual environment (recommended)
